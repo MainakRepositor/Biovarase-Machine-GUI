@@ -36,17 +36,3 @@ Biovarase requires
 - xlwt
 - numpy
 
-Releasing on 
-> "GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007"
-
-To start with Biovarase execute biovarase.py, on linux after unpucking do something like
-
-> bc@hal9000:~$ cd Biovarase-master/
-
-> bc@hal9000:~/Biovarase-master$ chmod +x biovarase.py
-
-> bc@hal9000:~/Biovarase-master$ ./biovarase.py 
-
-regards.
-
-
